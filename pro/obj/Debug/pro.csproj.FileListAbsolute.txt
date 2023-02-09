@@ -1,0 +1,42 @@
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.csprojAssemblyReference.cache
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.Form1.resources
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\pro\pro\bin\Debug\pro.exe.config
+C:\Users\Microsoft\source\repos\pro\pro\bin\Debug\pro.exe
+C:\Users\Microsoft\source\repos\pro\pro\bin\Debug\pro.pdb
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.exe
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.pdb
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.Form2.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\pro.exe.config
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\pro.exe
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\pro.pdb
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\Oracle.DataAccess.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.csprojAssemblyReference.cache
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.Properties.Resources.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.csproj.CopyComplete
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.exe
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.pdb
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.RegisterForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.loginForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.mainForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.Form1.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.DisconnectedMode.resources
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\bin\Debug\pro.exe.config
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\bin\Debug\pro.exe
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\bin\Debug\pro.pdb
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.csproj.SuggestedBindingRedirects.cache
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.DisconnectedMode.resources
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.RegisterForm.resources
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.loginForm.resources
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.mainForm.resources
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.Properties.Resources.resources
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.exe
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.pdb
+E:\On Use\Software Engineering\Project\Phase2\pro (1)\pro\pro\obj\Debug\pro.SearchForm.resources
